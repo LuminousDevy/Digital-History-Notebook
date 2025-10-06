@@ -1,4 +1,6 @@
  ## Digital History Notebook: Computer Science Pioneers <br>
+
+
 Welcome to your first project for the "History of Technology" class. Your assignment is to create a digital notebook to document key figures and events in the history of computer science. This notebook will be version-controlled, allowing you to track your work and manage your revisions.
 Your final submission will be a public GitHub repository with a complete digital notebook that follows all of the steps below.
 Assignment 1: Setting Up Your Notebook
@@ -10,9 +12,9 @@ After creating the repository, clone it to your local computer. Open the README.
 Once the content is in the file, you will need to push it back to GitHub.
 Report Status (These questions need to be answered for part of your grade):
 1.1: What command did you use to bring the repository to your local machine?
-Answer:
+Answer: git clone https://github.com/LuminousDevy/Digital-History-Notebook.git
 1.2: What was your first commit message to push this file to GitHub?
-Answer:
+Answer: git commit -m "added readme"
 Assignment 2: The Founding Visionaries
 Now, let's begin documenting the pioneers of our field. You will create files for two key figures.
 Instructions:
@@ -114,4 +116,3 @@ When you have completed all assignments and answered all of the "Report Status" 
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
-
