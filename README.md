@@ -115,4 +115,22 @@ Submission Instructions
 When you have completed all assignments and answered all of the "Report Status" questions in your README.md file, you are ready to submit. Please submit the following to Google Classroom:
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
-Be sure to answer the questions above as well.
+Be sure to answer the questions above as well
+
+Timeline: The Rise of the Internet
+
+1969, ARPANET created by the Defense Advanced Research Projects Agency
+
+1983, Domain Name System (DNS) was introduced. Better Identified Addresses instead of intering in a string of numbers
+
+1990, Creation of the World Wide Web (WWW). Invented by Tim Berners-Lee.
+
+1996, Google was founded by Larry Page.
+
+2001, 3G internet BroadBand was introduced
+
+2005, Industry Heavy Hitter where created. Wikipedia, Youtube, Reddit, Skype (rip).
+
+2007, Release of the Iphone.
+
+
