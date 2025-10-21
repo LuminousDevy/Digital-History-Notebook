@@ -134,3 +134,6 @@ Timeline: The Rise of the Internet
 2007, Release of the Iphone.
 
 
+### Final Thoughts <br>
+
+My final thoughts on this project were.. Intruiging to say the least. Ill probably use github more now for regular stuff since this is a lot more useful than I have given it credit. 
