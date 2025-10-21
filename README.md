@@ -70,9 +70,9 @@ Use git fetch to check for updates, then use git status to see what's different.
 Finally, use git pull to get your peer's feedback.
 Report Status:
 5.1: What did git status tell you after you ran git fetch?
-Answer:
+Answer:nothing to commit, main branch is up to date.
 5.2: What command did you use to merge your peer's changes into your local notebook?
-Answer:
+Answer:git fetch
 Assignment 6: The Web's Inventor
 With the internet's timeline now in your notebook, let's document one of its key figures.
 Instructions:
@@ -84,9 +84,9 @@ Use git commit -m "Added Tim Berners-Lee" to save these changes.
 Use git push to publish this final piece of research.
 Report Status:
 6.1: What was your commit message for this assignment?
-Answer:
+Answer: "added tim berners-lee"
 6.2: What command did you use to publish your work?
-Answer:
+Answer:"git commit -m"
 Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
 Instructions:
