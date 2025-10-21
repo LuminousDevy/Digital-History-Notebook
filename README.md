@@ -98,7 +98,7 @@ Commit this change directly on GitHub with the message: "Final thoughts on proje
 Return to your local machine's terminal and use git pull to get your concluding thoughts.
 Report Status:
 7.1: What command did you use to retrieve your final thoughts from GitHub?
-Answer:
+Answer:git fetch
 High-Level Challenge: The Editing Mistake
 You were working on a file for an extra credit assignment but made a mistake. You committed the error to your local history, but you realize your mistake before pushing. You need to completely erase the commit so there is no record of the error.
 Instructions:
