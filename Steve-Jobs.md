@@ -1,1 +1,3 @@
 Jobs and Wozniak introduced the Apple I and later the Apple II, one of the first highly successful personal computers. Jobs was instrumental in promoting the idea that computers could be used by individuals, not just businesses or research institutions. His focus on design, intuitive interfaces, and the integration of hardware and software set new standards in the tech industry.
+
+Peer review: Could you add more details about the first Macintosh computer?
